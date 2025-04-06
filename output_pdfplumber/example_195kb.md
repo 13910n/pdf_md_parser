@@ -1,0 +1,4 @@
+| For remittance in US dollars: | For remittance in Uzbek Soums: |
+| --- | --- |
+| Account Name: “Asian Infrastructure Investment Bank Projects Coordination Unit” Account No: 2021 0840 0052 7612 4005 (USD) Bank Name: Join-Stock Commercial Bank «UZPROMSTROYBANK» Bank Code: 00440 SWIFT: UJSIUZ22 TIN: 307680993 Correspondent Bank: JP MORGAN CHASE BANK, NEW YORK, USA Account No: 400 – 000261 SWIFT: CHASUS33 | Account Name: “Asian Infrastructure Investment Bank Projects Coordination Unit” Account No: 2021 0000 7052 7612 4004 (UZS) Bank Name: Join-Stock Commercial Bank «UZPROMSTROYBANK» Bank Code: 00440 SWIFT: UJSIUZ22 TIN: 307680993 |
+
