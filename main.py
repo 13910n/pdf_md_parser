@@ -1,10 +1,10 @@
 import os
 from helper import print_memory_usage
-from pdf_to_markdown_camelot import pdf_to_markdown
+from pdf_to_markdown_hybrid import pdf_to_markdown
 
 if __name__ == "__main__":
     example_dir = "example"
-    output_dir = "output_camelot"
+    output_dir = "output_hybrid"
 
     os.makedirs(output_dir, exist_ok=True)
     results: list[tuple[str, int]] = []

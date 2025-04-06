@@ -1,1609 +1,201 @@
-| Basic Data |
-| --- |
 | Project Name: Yellow River Basin Green Farmland and High-Quality Agriculture Development Project |
+| --- |
 | Project Number: 54027-002 | Approval Number: 4239 |
-| Country: China, People's Republic of | Executing Agency: |
-| Farmland Construction and Management Department, |
-| Ministry of Agriculture and Rural Affairs, |
-| Ministry of Agriculture and Rural Affairs |
-| Implementing Agency: |
-| Bureau of Finance, Shanxi Province, |
-| Finance Department Henan Province, |
-| Gansu Provincial Department of Agriculture & Rural |
-| Affairs, |
-| Gansu Provincial Finance Department, |
-| Henan Provincial Department of Agriculture & Rural |
-| Affairs, |
-| Ningxia Hui Autonomous Region, Department of |
-| Project Financing Amount: US$ 355,862,000 ADB Financing: US$ 157,000,000 | Agriculture & Rural Affairs, Qinghai Provincial Department of Agriculture and Rural Affairs, |
-| Cofinancing (ADB Administered): Non-ADB Financing: US$ 198,862,000 | Shaanxi Provincial Department of Agriculture & Rural Affairs, Shaanxi Provincial Financial Department, Shandong Provincial Department of Agriculture & Rural |
-| Affairs, |
-| Shanxi Provincial Department of Agriculture & Rural |
-| Affairs |
+| Country: China, People's Republic of | Executing Agency: Farmland Construction and Management Department, Ministry of Agriculture and Rural Affairs, Ministry of Agriculture and Rural Affairs |
+| Project Financing Amount: US$ 355,862,000 ADB Financing: US$ 157,000,000 Cofinancing (ADB Administered): Non-ADB Financing: US$ 198,862,000 | Implementing Agency: Bureau of Finance, Shanxi Province, Finance Department Henan Province, Gansu Provincial Department of Agriculture & Rural Affairs, Gansu Provincial Finance Department, Henan Provincial Department of Agriculture & Rural Affairs, Ningxia Hui Autonomous Region, Department of Agriculture & Rural Affairs, Qinghai Provincial Department of Agriculture and Rural Affairs, Shaanxi Provincial Department of Agriculture & Rural Affairs, Shaanxi Provincial Financial Department, Shandong Provincial Department of Agriculture & Rural Affairs, Shanxi Provincial Department of Agriculture & Rural Affairs |
 | Project Closing Date: 30 September 2028 |
-|  |
-| Date of First Procurement Plan: 27 October 2022 | Date of this Procurement Plan: 26 March 2025, |
-| Version 6 |
+| Date of First Procurement Plan: 27 October 2022 | Date of this Procurement Plan: 26 March 2025, Version 6 |
 | Procurement Plan Duration: 18 months | Related to COVID-19 response efforts: No |
 | Advance Contracting: No | Use of e-procurement (e-GP): No |
 
-| Procurement of | Goods and Works |
-| --- | --- |
+| Procurement of Goods and Works |
+| --- |
 | Method | Comments |
-| OpenCompetitiveBidding(OCB)forGoods | The potential for attracting enough qualified bidders to ensure |
-| contracts are delivered on time was examined in the strategic |
-| procurement planning and procurement risk assessment. It was |
-| concludedthatallcivilworks,goods,andnonconsultingservices |
-| contracts can be advertised nationally and using PRC-specific |
-| standard bidding document for works and goods (2020, updated |
-| from time to time) and following open competitive bidding |
-| procedures. |
-| ADB's prior review applies to the first OCB-AN for goods and |
-| nonconsulting services of each province. All other packages will |
-| besubjecttopostreview(sampling)byADB. |
-| RequestForQuotationforGoods | Applies to small/simple contracts (threshold $200,000) in |
-| procurement of works, goods, and nonconsulting services; and |
-| suitableforstandardreadilyavailablegoodswithlowqualityrisk |
-| to support efficiency in procurement specially for low value low |
-| riskspackages. |
+| OpenCompetitiveBidding(OCB)forGoods | The potential for attracting enough qualified bidders to ensure contracts are delivered on time was examined in the strategic procurement planning and procurement risk assessment. It was concludedthatallcivilworks,goods,andnonconsultingservices contracts can be advertised nationally and using PRC-specific standard bidding document for works and goods (2020, updated from time to time) and following open competitive bidding procedures. ADB's prior review applies to the first OCB-AN for goods and nonconsulting services of each province. All other packages will besubjecttopostreview(sampling)byADB. |
+| RequestForQuotationforGoods | Applies to small/simple contracts (threshold $200,000) in procurement of works, goods, and nonconsulting services; and suitableforstandardreadilyavailablegoodswithlowqualityrisk to support efficiency in procurement specially for low value low riskspackages. |
 | OpenCompetitiveBidding(OCB)forWorks | Thepotentialforattractingenoughqualifiedbidderstoensure |
 
-| contracts are delivered on time was examined in the strategic |
+| contracts are delivered on time was examined in the strategic procurement planning and procurement risk assessment. It was concludedthatallcivilworks,goods,andnonconsultingservices contracts can be advertised nationally and using PRC-specific standard bidding document for works and goods (2020, updated from time to time) and following open competitive bidding procedures. ADB'spriorreviewappliestothefirstOCB-ANforworksofeach province. All other packages will be subject to post review (sampling)byADB. |
 | --- |
-| procurement planning and procurement risk assessment. It was |
-| concludedthatallcivilworks,goods,andnonconsultingservices |
-| contracts can be advertised nationally and using PRC-specific |
-| standard bidding document for works and goods (2020, updated |
-| from time to time) and following open competitive bidding |
-| procedures. |
-| ADB'spriorreviewappliestothefirstOCB-ANforworksofeach |
-| province. All other packages will be subject to post review |
-| (sampling)byADB. |
-| RequestForQuotationforWorks | Applies to small/simple contracts (threshold $200,000) in |
-| procurement of works, goods, and nonconsulting services; and |
-| suitableforstandardreadilyavailablegoodswithlowqualityrisk |
-| to support efficiency in procurement specially for low value low |
-| riskspackages. |
+| RequestForQuotationforWorks | Applies to small/simple contracts (threshold $200,000) in procurement of works, goods, and nonconsulting services; and suitableforstandardreadilyavailablegoodswithlowqualityrisk to support efficiency in procurement specially for low value low riskspackages. |
 |  |
-| Consultin | g Services |
+| Consulting Services |
 | Method | Comments |
-| Quality- and Cost-Based Selection for Consulting Firm | Post review thresholds apply to procurement activities below the |
-| identified threshold as defined in the Staff Instruction. Three (3) |
-| submissions required for prior review and approval by ADB |
-| (Submission 1 - Shortlisting and draft request for proposal |
-| documents including budget and terms of reference; Submission |
-| 2 - Technical proposal evaluation; and Submission 3 - Financial |
-| proposal evaluation and overall ranking). |
-| Quality-cost ratio 90:10; full technical proposal (FTP) or |
-| simplified technical proposal (STP) shall be used. The CSRN |
-| must be posted for 30 days. |
-| Consultant's Qualification Selection for Consulting Firm | Post review thresholds apply to procurement activities below the |
-| identified threshold as defined in the Staff Instruction. Two (2) |
-| submissions required for prior review and approval by ADB |
-| (Submission 1 - Shortlisting and draft request for proposal |
-| documents including budget and terms of reference; and |
-| Submission 2-3 - Combined technical and financial proposal |
-| evaluation. STP or BTP may be used. The CSRN must be |
-| posted for 15 days. |
+| Quality- and Cost-Based Selection for Consulting Firm | Post review thresholds apply to procurement activities below the identified threshold as defined in the Staff Instruction. Three (3) submissions required for prior review and approval by ADB (Submission 1 - Shortlisting and draft request for proposal documents including budget and terms of reference; Submission 2 - Technical proposal evaluation; and Submission 3 - Financial proposal evaluation and overall ranking). Quality-cost ratio 90:10; full technical proposal (FTP) or simplified technical proposal (STP) shall be used. The CSRN must be posted for 30 days. |
+| Consultant's Qualification Selection for Consulting Firm | Post review thresholds apply to procurement activities below the identified threshold as defined in the Staff Instruction. Two (2) submissions required for prior review and approval by ADB (Submission 1 - Shortlisting and draft request for proposal documents including budget and terms of reference; and Submission 2-3 - Combined technical and financial proposal evaluation. STP or BTP may be used. The CSRN must be posted for 15 days. |
 
-|  |
-|  |
 | Goods and Works |
-| Package | General | Estimated | Procurement | Review | Bidding | Advertisement Date | Comments |
-| Number | Description Green farmland | Value (in US$) 4,467,169.00 | Method OCB | Prior | Procedure 1S1E | (quarter/year) Q1 / 2025 | Non-Consulting |
-| GS-ADD-C | construction - | Services: No |
-| W01 | 2023 |
-|  |
-| Advertising: National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Small Works |
-
-| Covid-19 Response? |
 | --- |
-| No |
-|  |
-| Comments: 1st works |
-| contracts for Gansu |
-|  |
-| Green farmland | 2,852,840.00 | OCB | Post | 1S1E | Q2 / 2025 | Non-Consulting |
-| GS-ADD-C | construction - | (Sampling) | Services: No |
-| W02 | 2024 |
-|  |
-| Advertising: National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Small Works |
-|  |
-| Covid-19 Response? |
-| No |
-|  |
-| Green farmland | 3,206,273.00 | OCB | Post | 1S1E | Q1 / 2026 | Non-Consulting |
-| GS-ADD-C | construction - | (Sampling) | Services: No |
-| W03 | 2025-2026 |
-|  |
-| Advertising: National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Small Works |
-|  |
-| Covid-19 Response? |
-| No |
-|  |
-| Office | 70,784.00 | RFQ | Post | Q2 / 2024 | Non-Consulting |
-| HN-PPMO- | equipment | (Sampling) | Services: No |
+| Package Number | General Description | Estimated Value (in US$) | Procurement Method | Review | Bidding Procedure | Advertisement Date (quarter/year) | Comments |
 
-| G01 |
+| Covid-19 Response? No Comments: 1st works contracts for Gansu |
 | --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Office | 70,784.00 | RFQ | Post | Q2 / 2026 |
-| HN-PPMO- | equipment | (Sampling) |
-| G02 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Water resource | 1,970,295.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| HN-SZD-C | engineering | (Sampling) |
-| W01 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Water saving | 1,900,383.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| HN-SZD-C | irrigation | (Sampling) |
+| GS-ADD-C W02 | Green farmland construction - 2024 | 2,852,840.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| GS-ADD-C W03 | Green farmland construction - 2025-2026 | 3,206,273.00 | OCB | Post (Sampling) | 1S1E | Q1 / 2026 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
 
-| W02 | engineering |
+| G01 | No. Of Contracts: 1 Covid-19 Response? No |
 | --- | --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Low pressure | 2,136,542.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| HN-SZD-C | irrigation water | (Sampling) |
-| W03 | and drip |
-| irrigation |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Terracing | 308,205.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| HN-SZD-C | (Sampling) |
-| W04 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| HN-PPMO- G02 | Office equipment | 70,784.00 | RFQ | Post (Sampling) | Q2 / 2026 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| HN-SZD-C W01 | Water resource engineering | 1,970,295.00 | OCB | Post (Sampling) | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+
+| W02 | engineering | No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| --- | --- | --- |
+| HN-SZD-C W03 | Low pressure irrigation water and drip irrigation | 2,136,542.00 | OCB | Post (Sampling) | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+
+| Small Works Covid-19 Response? No |
+| --- |
+| HN-SZD-C W05 | Farm road | 923,140.00 | OCB | Prior | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No Comments: 1st OCB (AN) works contract for Henan |
+| HN-SZD-C W06 | Agricultural film mulch recycling facilities | 159,264.00 | RFQ | Post (Sampling) | Q2 / 2026 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+
+| No. Of Contracts: 1 Covid-19 Response? No |
+| --- |
+| HN-SZD-G0 2 | Agricultural film mulch recycling equipment | 106,913.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| HN-SZD-G0 3 | Straw returning to field equipment | 185,513.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+
+| Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No Comments: 1st OCB (AN) goods contract for Henan |
+| --- |
+| HN-SZD-G0 5 | Pest control equipment & installation | 235,062.00 | OCB | Post (Sampling) | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
 
 |  |
 |  |
-|  |
-|  |
-|  |
-|  |
-| Farm road | 923,140.00 | OCB | Prior | 1S1E | Q3 / 2025 |
-| HN-SZD-C |
-| W05 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Agricultural film | 159,264.00 | RFQ | Post | Q2 / 2026 |
-| HN-SZD-C | mulch recycling | (Sampling) |
-| W06 | facilities |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Fertigation and | 42,009.00 | RFQ | Post | Q3 / 2025 |
-| HN-SZD-G0 | installation | (Sampling) |
-| 1 |
+| HN-WZC-C W02 | Organic fertilizer plant of WuZhi County | 582,643.84 | OCB | Post (Sampling) | 1S1E | Q2 / 2026 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| HN-WZC-C W03 | Greenhouse of Wuzhi County | 463,753.42 | OCB | Post (Sampling) | 1S1E | Q3 / 2026 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+
+| Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
+| --- |
+| HN-WZC-G 02 | Equipment for organic fertilizer plant of WuZhi County | 658,602.74 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
 
 |  |
 |  |
-|  |
-|  |
-|  |
-|  |
-| Agricultural film | 106,913.00 | RFQ | Post | Q3 / 2025 |
-| HN-SZD-G0 | mulch recycling | (Sampling) |
-| 2 | equipment |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Straw returning | 185,513.00 | RFQ | Post | Q3 / 2025 |
-| HN-SZD-G0 | to field | (Sampling) |
-| 3 | equipment |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Cold logistic | 339,173.00 | OCB | Prior | 1S1E | Q3 / 2025 |
-| HN-SZD-G0 | vehicle |
-| 4 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| HN-YSD-C W01 | Farmland Infrastructure Construction of Yanshi District | 8,320,469.97 | OCB | Prior | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| NPMO-G01 | Office equipment | 17,416.00 | RFQ | Post (Sampling) | Q2 / 2024 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Pest control | 235,062.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| HN-SZD-G0 | equipment & | (Sampling) |
-| 5 | installation |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 6,811,616.44 | OCB | Post | 1S1E | Q2 / 2025 |
-| HN-WZC-C | Infrastructure | (Sampling) |
-| W01 | Construction of |
-| Wuzhi County |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Bidding Document: Small Works Covid-19 Response? No |
+| --- |
+| QH-DTC-C W02 | Farmland quality enhancement and NPS pollution control | 721,406.00 | OCB | Post (Sampling) | 1S1E | Q4 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
 
-| Organic fertilizer | 582,643.84 | OCB | Post | 1S1E | Q2 / 2026 |
-| --- | --- | --- | --- | --- | --- |
-| HN-WZC-C | plant of WuZhi | (Sampling) |
-| W02 | County |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Greenhouse of | 463,753.42 | OCB | Post | 1S1E | Q3 / 2026 |
-| HN-WZC-C | Wuzhi County | (Sampling) |
-| W03 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Straw returning | 367,298.42 | OCB | Post | 1S1E | Q2 / 2025 |
-| HN-WZC-G | equipment of | (Sampling) |
-| 01 | WuZhi County |
-|  |
-|  |
-|  |
-|  |
+| QH-DTC-C W04 | Greenhouse and power transmission line | 1,291,114.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| QH-PPMO- G01 | Office equipment | 175,834.00 | RFQ | Post (Sampling) | Q4 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
 
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Equipment for | 658,602.74 | OCB | Post | 1S1E | Q2 / 2025 |
-| HN-WZC-G | organic fertilizer | (Sampling) |
-| 02 | plant of WuZhi |
-| County |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 6,024,471.92 | OCB | Post | 1S1E | Q2 / 2025 |
-| HN-XFD-C | Infrastructure | (Sampling) |
-| W01 | Construction of |
-| XiangFu District |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| Covid-19 Response? No Comments: 1st OCB (AN) works contract for Shaanxi |
+| --- |
+| SAX-NNW- CW01 | Nanniwan Farmland Infrastructure Construction: land leveling, irrigation, drainage, field road, farmland signages, soil improvement, protective farming, and agricultural film recycling | 5,063,588.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| SAX-YYD-C W01 | Yuyang District Farmland Infrastructure Construction: land leveling, irrigation, drainage, field road, and farmland signages | 8,374,418.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
 
-| Farmland | 8,320,469.97 | OCB | Prior | 1S1E | Q2 / 2025 |
-| --- | --- | --- | --- | --- | --- |
-| HN-YSD-C | Infrastructure |
-| W01 | Construction of |
-| Yanshi District |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Office | 17,416.00 | RFQ | Post | Q2 / 2024 |
-| NPMO-G01 | equipment | (Sampling) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 1,779,331.00 | OCB | Post | 1S1E | Q4 / 2025 |
-| QH-DTC-C | infrastructure | (Sampling) |
-| W01 | construction |
-| (land levelling, |
-| farming road) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland quality | 721,406.00 | OCB | Post | 1S1E | Q4 / 2025 |
-| QH-DTC-C | enhancement | (Sampling) |
-| W02 | and NPS |
-| pollution control |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland slope | 928,479.00 | OCB | Prior | 1S1E | Q2 / 2025 |
-| QH-DTC-C | protection |
-| W03 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-| Greenhouse and | 1,291,114.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| --- | --- | --- | --- | --- | --- |
-| QH-DTC-C | power | (Sampling) |
-| W04 | transmission line |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Office | 175,834.00 | RFQ | Post | Q4 / 2025 |
-| QH-PPMO- | equipment | (Sampling) |
-| G01 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 4,606,146.00 | OCB | Prior | 1S1E | Q3 / 2025 |
-| SAX-DLC-C | infrastructure |
-| W01 | construction - |
-| land levelling |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Nanniwan | 5,063,588.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| SAX-NNW- | Farmland | (Sampling) |
-| CW01 | Infrastructure |
-| Construction: |
-| land leveling, |
-| irrigation, |
-| drainage, field |
-| road, farmland |
-| signages, soil |
-| improvement, |
-| protective farming, and |
-| agricultural film recycling |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Yuyang District | 8,374,418.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| SAX-YYD-C | Farmland | (Sampling) |
-| W01 | Infrastructure |
-| Construction: |
-| land leveling, |
-| irrigation, |
-| drainage, field |
-| road, and |
-| farmland |
-| signages |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-| Yanggu | 147,467.00 | RFQ | Post | Q3 / 2025 |
-| --- | --- | --- | --- | --- |
-| SD-YGC-C | Fenghua Grain | (Sampling) |
-| W01 | Planting |
-| Professional |
-| Cooperative |
-| (annual |
-| purchase and |
-| storage of 800 |
-| tons of grain) |
-|  |
-|  |
-|  |
-|  |
-| Yanggu County | 252,168.00 | OCB | Post | 1S1E | Q4 / 2025 |
-| SD-YGC-C | Cangshang | (Sampling) |
-| W02 | Agricultural |
-| Tourism |
-| Professional |
-| Cooperative |
-| (upgrading & |
-| reconstruction of |
-| vegetable facility |
-| base with an |
-| annual output of |
-| 100 tons) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Yanggu County | 123,872.00 | RFQ | Post | Q2 / 2025 |
-| SD-YGC-C | Jingu Fruit & | (Sampling) |
-| W03 | Vegetable |
-| Planting |
-| Professional |
-| Cooperative |
-| (Ginger |
-| fresh-keeping |
-| warehouse with |
-| an annual |
-| storage of 800 |
-| tons) |
-|  |
-|  |
-|  |
-
-| Yanggu Xianyun | 523,506.00 | OCB | Post | 1S1E | Q2 / 2025 | Non-Consulting |
+| SD-YGC-C W01 | Yanggu Fenghua Grain Planting Professional Cooperative (annual purchase and storage of 800 tons of grain) | 147,467.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
 | --- | --- | --- | --- | --- | --- | --- |
-| SD-YGC-C | Chili | (Sampling) | Services: No |
-| W04 | Professional |
-| Cooperative |
-| (Chili processing | Advertising: National |
-| plant with an |
-| annual capacity | No. Of Contracts: 1 |
-| of 5,000 tons) |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Small Works |
-|  |
-| Covid-19 Response? |
-| No |
-|  |
-| Yanggu County | 112,075.00 | RFQ | Post | Q2 / 2025 | Non-Consulting |
-| SD-YGC-C | Sunmiao | (Sampling) | Services: No |
-| W05 | Strawberry |
-| Planting |
-| Professional |
-| Cooperative | No. Of Contracts: 1 |
-| (reconstruction |
-| of strawberry |
-| production |
-| bases with an |
-| annual output of |
-| 200 tons) |
-|  |
-| Covid-19 Response? |
-| No |
-|  |
-| Yanggu County | 154,840.00 | RFQ | Prior | Q2 / 2025 | Non-Consulting |
-| SD-YGC-C | Fabao Breeding | Services: No |
-| W07 | Farm (annual |
-| purchase & |
-| storage of 1,000 |
-| tons of grain) | No. Of Contracts: 1 |
-|  |
-| Covid-19 Response? |
-| No |
-|  |
-| Comments: 1st RFQ |
-| works contracts of the |
-| project |
+| SD-YGC-C W02 | Yanggu County Cangshang Agricultural Tourism Professional Cooperative (upgrading & reconstruction of vegetable facility base with an annual output of 100 tons) | 252,168.00 | OCB | Post (Sampling) | 1S1E | Q4 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
 
-| Lufeng Family | 309,680.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| --- | --- | --- | --- | --- | --- |
-| SD-YGC-C | Farm in | (Sampling) |
-| W08 | Zhangqiu Town, |
-| Yanggu County |
-| (vegetable |
-| fresh-keeping |
-| warehouse with |
-| an annual |
-| storage of 800 |
-| tons) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Baiguo Yishou | 221,200.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| SD-YGC-C | Family Farm | (Sampling) |
-| W09 | Xishimen Song |
-| Village Boji |
-| Bridge Office |
-| Yanggu County |
-| (annual |
-| purchase and |
-| storage of 700 |
-| tons of fruits & |
-| vegetables) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Tianen | 202,118.00 | OCB | Post | 1S1E | Q4 / 2025 |
-| SD-YGC-C | Ecological | (Sampling) |
-| W10 | Family Farm |
-| Wuliyuan Town |
-| Yanggu County |
-| (upgrading & |
-| reconstruction of |
-| cherry facility |
-| base with an |
-|  |
+| SD-YGC-C W04 | Yanggu Xianyun Chili Professional Cooperative (Chili processing plant with an annual capacity of 5,000 tons) | 523,506.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SD-YGC-C W05 | Yanggu County Sunmiao Strawberry Planting Professional Cooperative (reconstruction of strawberry production bases with an annual output of 200 tons) | 112,075.00 | RFQ | Post (Sampling) | Q2 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
 
-| annual output of |
-| --- |
-| 25 tons) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Yongchang | 176,960.00 | RFQ | Post | Q2 / 2025 |
-| SD-YGC-C | Family Farm | (Sampling) |
-| W11 | Yanlou Town |
-| Yanggu County |
-| (annual |
-| purchase & |
-| storage of 500 |
-| tons of grain) |
-|  |
-|  |
-|  |
-|  |
-| Rongmin Family | 318,528.00 | OCB | Prior | 1S1E | Q3 / 2025 |
-| SD-YGC-C | Farm Dabu |
-| W12 | Township |
-| Yanggu County |
-| (upgrading & |
-| reconstruction of |
-| large cherry |
-| facility base with |
-| an annual |
-| output of 32 |
-| tons) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
+| SD-YGC-C W08 | Lufeng Family Farm in Zhangqiu Town, Yanggu County (vegetable fresh-keeping warehouse with an annual storage of 800 tons) | 309,680.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SD-YGC-C W09 | Baiguo Yishou Family Farm Xishimen Song Village Boji Bridge Office Yanggu County (annual purchase and storage of 700 tons of fruits & vegetables) | 221,200.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
 
-| Xinxinyuan | 147,467.00 | RFQ | Post | Q3 / 2025 |
-| --- | --- | --- | --- | --- |
-| SD-YGC-C | Family Farm | (Sampling) |
-| W13 | Xushandou |
-| Village |
-| Gaomiaowang |
-| Town Yanggu |
-| County |
-| (vegetable |
-| fresh-keeping |
-| warehouse with |
-| an annual |
-| storage of 200 |
-| tons) |
-|  |
-|  |
-|  |
-| Yanggu County | 176,960.00 | RFQ | Post | Q3 / 2025 |
-| SD-YGC-C | Hengtai Family | (Sampling) |
-| W14 | Farm (annual |
-| storage of 500 |
-| tons of |
-| vegetables) |
-|  |
-|  |
-|  |
-|  |
-| Weili Family | 147,467.00 | RFQ | Post | Q3 / 2025 |
-| SD-YGC-C | Farm Zhangqiu | (Sampling) |
-| W15 | Town Yanggu |
-| County (annual |
-| purchase and |
-| storage of 700 |
-| tons of grain |
-|  |
-|  |
-|  |
-|  |
-| Wenyu Breeding | 309,680.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| SD-YGC-C | Family Farm | (Sampling) |
-| W16 | Yanlou Town |
-| Yanggu County |
-| (annual 2,000 |
-| tons of grain |
-
-| storage) |
-| --- |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Luyu Family | 176,960.00 | RFQ | Post | Q1 / 2025 |
-| SD-YGC-C | Farm Zhangqiu | (Sampling) |
-| W17 | Town Yanggu |
-| County (annual |
-| 1,500 tons of |
-| grain storage) |
-|  |
-|  |
-|  |
-|  |
-| Yanggu County | 51,495.00 | RFQ | Post | Q2 / 2025 |
-| SD-YGC-C | Tomato King | (Sampling) |
-| W18 | Planting & |
-| Breeding Family |
-| Farm (upgrading |
-| & renovation of |
-| vegetable facility |
-| base with an |
-| annual output of |
-| 100 tons) |
-|  |
-|  |
-|  |
-|  |
-| Yufeng | 168,112.00 | RFQ | Post | Q4 / 2025 |
-| SD-YGC-C | Ecological Farm | (Sampling) |
-| W19 | Wuliyuan Town |
-| Yanggu County |
-
-| (upgrading & |
-| --- |
-| reconstruction of |
-| large cherry |
-| facility base with |
-| an annual |
-| output of 18 |
-| tons |
-|  |
-|  |
-|  |
-|  |
-| Hengda Green | 265,440.00 | OCB | Post | 1S1E | Q2 / 2025 |
-| SD-YGC-C | Manor Family | (Sampling) |
-| W20 | Farm Dingshui |
-| Town Yanggu |
-| County (10,000 |
-| ton sweet potato |
-| storage) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Cangtingjin | 176,960.00 | RFQ | Post | Q2 / 2025 |
-| SD-YGC-C | Family Farm | (Sampling) |
-| W21 | Gaomiaowang |
-| Township |
-| Yanggu County |
-| (annual receipt |
-| & storage of 800 |
-| tons of grain) |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 1,986,522.00 | OCB | Post | 1S1E | Q2 / 2026 |
-| SD-YGC-C | infrastructure | (Sampling) |
-| W22 | construction |
-
-| (farming roads, |
-| --- |
-| bridge, farmland |
-| shelter forest |
-| and project |
-| signs) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Machine well | 613,461.00 | OCB | Prior | 1S1E | Q3 / 2025 |
-| SD-YGC-G0 | and pump |
-| 1 | station |
-| equipment |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Monitoring | 81,107.00 | RFQ | Post | Q3 / 2025 |
-| SD-YGC-G0 | system | (Sampling) |
-| 2 | construction |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-| Pesticide | 113,549.00 | RFQ | Post | Q3 / 2025 |
-| --- | --- | --- | --- | --- |
-| SD-YGC-G0 | reduction and | (Sampling) |
-| 3 | control materials |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| PVC pipe | 760,927.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| SD-YGC-G0 | (including pipe | (Sampling) |
-| 4 | fittings) |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland power | 1,493,836.00 | OCB | Post | 1S1E | Q3 / 2025 |
-| SD-YGC-G0 | transmission | (Sampling) |
-| 5 | and distribution |
-| facilities and |
-| equipment |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 2,834,219.00 | OCB | Prior | 1S1E | Q4 / 2025 |
-| SX-PLC-CW | infrastructure |
-| 01 | construction - |
-| land levelling |
-| and farm roads, |
-| etc., |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Farmland | 3,991,077.00 | OCB | Post | 1S1E | Q4 / 2025 |
-| SX-PLC-CW | infrastructure | (Sampling) |
-| 02 | construction - |
-| irrigation |
-| facilities |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-| Equipment for | 449,316.00 | OCB | Prior | 1S1E | Q3 / 2025 |
-| --- | --- | --- | --- | --- | --- |
-| SX-PLC-G0 | cold logistic |
-| 1 | distribution |
-| center |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| Temperature | 424,704.00 | OCB | Post | 1S1E | Q4 / 2025 |
-| SX-PLC-G0 | control device | (Sampling) |
-| 2 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-| Number GS-PPMO- | Description Project | Value (in US$) 640,000.00 | Method QCBS | Review Prior | Proposal STP | Date (quarter/year) Q3 / 2024 |
-| --- | --- | --- | --- | --- | --- | --- |
-| CS01 | implementation |
-
-| consultants for |
-| --- |
-| project |
-| management |
-| and technical |
-| support |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| HN-PPMO- | Project | 150,589.00 | CQS | Prior | STP | Q2 / 2025 |
-| CS01 | promo-tion and |
-| publici-ty of |
-| Henan |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| NPMO-CS1 | Project | 629,898.00 | QCBS | Prior | STP | Q2 / 2024 |
-| implementation |
-| consultants for |
-| project |
-| management & |
-| technical |
-| support |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| NPMO-CS2 | Knowledge | 622,626.00 | QCBS | Prior | STP | Q2 / 2025 |
-| sharing platform |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| NPMO-CS4 | Research | 150,780.00 | CQS | Prior | STP | Q2 / 2025 |
-| studies - Topic |
-| 1: Technical |
-| Specifications |
-| for |
-| High-Standard |
-| Farmland |
-| Water-Saving |
-
-| Irrigation |
-| --- |
-| Projects in the |
-| Yellow River |
-| Basin |
-|  |
-| NPMO-CS5 | Research | 117,973.00 | CQS | Prior | STP | Q2 / 2025 |
-| studies - Topic 2 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| NPMO-CS6 | Research | 117,973.00 | CQS | Prior | STP | Q1 / 2026 |
-| Studies - Topic 3 |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| QH-PPMO- | Project | 726,705.00 | QCBS | Prior | STP | Q2 / 2024 |
-| CS | implementation |
-| consultants for |
-| project |
-| management & |
-| technical |
-| support |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-|  |
-| SD-PPMO- | Demonstration | 88,465.00 | CQS | Post | STP | Q2 / 2025 |
-| CS03 | and Research_ | (Sampling) |
-| Shandong |
-| Subproject |
-|  |
-|  |
-|  |
-|  |
-|  |
-
-| Goods and Works Package | General | Estimated | Procurement | Bidding |
-| --- | --- | --- | --- | --- |
-| Number | Description Farmland | Value (in US$) 844,488.00 | Method OCB | Review Prior | Procedure 1S1E | Comments Non-Consulting Services: |
-| NX-QTX-CW01 | infrastructure | No |
-| construction - land |
-| levelling | Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: Small |
-| Works |
-|  |
-| Covid-19 Response? No |
-|  |
-| Comments: 1st OCB (AN) |
-| works contract for Ningxia |
-|  |
-| High-efficiency | 923,443.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| NX-QTX-CW02 | water-saving | (Sampling) | No |
-| irrigation, power |
-| distribution, | Advertising Type: |
-| fertigation pumping | National |
-| station and smart |
-| irrigation system |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: Small |
-| Works |
-|  |
-| Covid-19 Response? No |
-|  |
-| Water storage | 73,733.00 | RFQ | Post | Non-Consulting Services: |
-| NX-QTX-CW03 | tanks | (Sampling) | No |
-|  |
-| No. Of Contracts: 1 |
-
-| Covid-19 Response? No |
-| --- |
-|  |
-| Water measuring | 368,666.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| NX-QTX-CW04 | facilities | (Sampling) | No |
-|  |
-| Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: Small |
-| Works |
-|  |
-| Covid-19 Response? No |
-|  |
-| Ecological | 761,646.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| NX-QTX-CW05 | drainage | (Sampling) | No |
-|  |
-| Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: Small |
-| Works |
-|  |
-| Covid-19 Response? No |
-|  |
-| Comments: |
-| Advertisement: Q3/2025 |
-|  |
-| Concrete farming | 666,976.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| NX-QTX-CW06 | roads | (Sampling) | No |
-|  |
-| Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-
-| Bidding Document: Small |
-| --- |
-| Works |
-|  |
-| Covid-19 Response? No |
-|  |
-| Comments: |
-| Advertisement: Q3/2025 |
-|  |
-| Biological channel | 1,099,889.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| NX-QTX-CW07 | (ecological | (Sampling) | No |
-| interception & |
-| ditches) | Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: Small |
-| Works |
-|  |
-| Covid-19 Response? No |
-|  |
-| Comments: |
-| Advertisement: Q3/2025 |
-|  |
-| NX-QTX-G01 | Organic fertilizer | 614,900.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| promotion | (Sampling) | No |
-|  |
-| Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Goods |
-|  |
-| Covid-19 Response? No |
-|  |
-| NX-QTX-G02 | Soil conditioner | 1,065,827.00 | OCB | Post | 1S1E | Non-Consulting Services: |
-| (Sampling) | No |
-|  |
-| Advertising Type: |
-| National |
-|  |
-| No. Of Contracts: 1 |
-
-| Prequalification of |
-| --- |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Goods |
-|  |
-| Covid-19 Response? No |
-|  |
-| NX-QTX-G03 | Pest control | 845,914.00 | OCB | Prior | 1S1E | Non-Consulting Services: |
-| equipment, | No |
-| biological pesticide |
-| and agricultural | Advertising Type: |
-| film promotion | National |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Prequalification of |
-| Bidders: No |
-|  |
-| Domestic Preference |
-| Applicable: No |
-|  |
-| Bidding Document: |
-| Goods |
-|  |
-| Covid-19 Response? No |
-|  |
-| Comments: 1st OCB (AN) |
-| goods contract for |
-| Ningxia |
-|  |
-| NX-QTX-NCS | Farmland quality | 33,917.00 | RFQ | Prior | Non-Consulting Services: |
-| monitoring | Yes |
-|  |
-| No. Of Contracts: 1 |
-|  |
-| Covid-19 Response? No |
-|  |
-| Comments: 1st |
-| nonconsulting service |
-| contract for Ningxia |
-
-| Consulting Servic Package | es General | Estimated | Selection | Type of |
-| --- | --- | --- | --- | --- |
-| Number | Description Project | Value (in US$) 427,653.00 | Method QCBS | Review Prior | Proposal STP | Comments Non-Consulting Services: |
-| NX-PPMO-CS01 | implementation | No |
-| consultants for |
-
-| project | Type: Firm |
+| annual output of 25 tons) | Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
 | --- | --- |
-| management & |
-| technical support | Advertising: National |
-|  |
-| Quality-Cost Ratio: 90:10 |
-|  |
-| Covid-19 Response? No |
-|  |
-| Project knowledge | 71,005.00 | CQS | Post | STP | Non-Consulting Services: |
-| NX-PPMO-CS02 | management | (Sampling) | No |
-| consultant |
-| Type: Firm |
-|  |
-| Advertising: National |
-|  |
-| Covid-19 Response? No |
-|  |
-| NX-QTX-CS | Project | 147,467.00 | QCBS | Post | STP | Non-Consulting Services: |
-| implementation | (Sampling) | No |
-| consultants for |
-| project | Type: Firm |
-| management & |
-| technical support | Advertising: National |
-|  |
-| Quality-Cost Ratio: 90:10 |
-|  |
-| Covid-19 Response? No |
+| SD-YGC-C W11 | Yongchang Family Farm Yanlou Town Yanggu County (annual purchase & storage of 500 tons of grain) | 176,960.00 | RFQ | Post (Sampling) | Q2 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| SD-YGC-C W12 | Rongmin Family Farm Dabu Township Yanggu County (upgrading & reconstruction of large cherry facility base with an annual output of 32 tons) | 318,528.00 | OCB | Prior | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No Comments: 1st OCB (AN) works contract for Shandong |
 
-| Goods and Wor Package | ks General | Contract | Date of ADB | Date of |
-| --- | --- | --- | --- | --- |
-| Number SAX-PPMO-G | Description Agricultural | Value 1,937,500.00 | Approval of Contract Award 09-JAN-25 | Completion | Comments PCSS 0012 |
-| 01 | monitoring and |
-| system |
-|  |
-| SD-PPMO-G0 | Office equipment | 39,790.00 | 02-DEC-24 | PCSS 0010 |
-| 1 |
-|  |
-| SX-PPMO-G0 | Office equipment | 40,315.98 | 25-JUL-23 | PCSS 0003 |
-| 1 |
+| SD-YGC-C W13 | Xinxinyuan Family Farm Xushandou Village Gaomiaowang Town Yanggu County (vegetable fresh-keeping warehouse with an annual storage of 200 tons) | 147,467.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| --- | --- | --- | --- | --- | --- | --- |
+| SD-YGC-C W14 | Yanggu County Hengtai Family Farm (annual storage of 500 tons of vegetables) | 176,960.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| SD-YGC-C W15 | Weili Family Farm Zhangqiu Town Yanggu County (annual purchase and storage of 700 tons of grain | 147,467.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
 
-| Consulting Ser Package | vices General | Contract | Date of ADB | Date of |
-| --- | --- | --- | --- | --- |
-| Number NPMO-CS7 | Description Procurement | Value 21,399.94 | Approval of Contract Award 31-MAY-23 | Completion |
-| agency |
+| storage) | No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| --- | --- |
+| SD-YGC-C W17 | Luyu Family Farm Zhangqiu Town Yanggu County (annual 1,500 tons of grain storage) | 176,960.00 | RFQ | Post (Sampling) | Q1 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| SD-YGC-C W18 | Yanggu County Tomato King Planting & Breeding Family Farm (upgrading & renovation of vegetable facility base with an annual output of 100 tons) | 51,495.00 | RFQ | Post (Sampling) | Q2 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+
+| (upgrading & reconstruction of large cherry facility base with an annual output of 18 tons | No. Of Contracts: 1 Covid-19 Response? No |
+| --- | --- |
+| SD-YGC-C W20 | Hengda Green Manor Family Farm Dingshui Town Yanggu County (10,000 ton sweet potato storage) | 265,440.00 | OCB | Post (Sampling) | 1S1E | Q2 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| SD-YGC-C W21 | Cangtingjin Family Farm Gaomiaowang Township Yanggu County (annual receipt & storage of 800 tons of grain) | 176,960.00 | RFQ | Post (Sampling) | Q2 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+
+| (farming roads, bridge, farmland shelter forest and project signs) | Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| --- | --- |
+| SD-YGC-G0 1 | Machine well and pump station equipment | 613,461.00 | OCB | Prior | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No Comments: 1st OCB (AN) goods contract for Shandong |
+
 |  |
-| SD-PPMO-CS | Procurement | 62,744.58 | 24-JUL-23 |
-| 02 | agency |
 |  |
-| SAX-PPMO-C | Project | 1,226,400.00 | 23-OCT-24 |
-| S01 | implementation |
-| consultants for |
-| project |
-| management & |
-| technical support |
-| SX-PPMO-CS | Project | 718,910.74 | 15-OCT-24 |
-| implementation |
-| consultants for |
-| project |
-| management & |
-| technical support |
-| SAX-PPMO-C | Survey, | 1,060,050.98 | 21-SEP-23 |
-| S02 | preliminary and |
-| detailed designs |
+| SD-YGC-G0 3 | Pesticide reduction and control materials | 113,549.00 | RFQ | Post (Sampling) | Q3 / 2025 | Non-Consulting Services: No No. Of Contracts: 1 Covid-19 Response? No |
+| SD-YGC-G0 4 | PVC pipe (including pipe fittings) | 760,927.00 | OCB | Post (Sampling) | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
+
+| Bidding Document: Goods Covid-19 Response? No |
+| --- |
+| SX-PLC-CW 01 | Farmland infrastructure construction - land levelling and farm roads, etc., | 2,834,219.00 | OCB | Prior | 1S1E | Q4 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No Comments: 1st OCB (AN) works contract for Shanxi |
+
+| SX-PLC-G0 1 | Equipment for cold logistic distribution center | 449,316.00 | OCB | Prior | 1S1E | Q3 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No Comments: 1st OCB (AN) goods contract for Shanxi |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| SX-PLC-G0 2 | Temperature control device | 424,704.00 | OCB | Post (Sampling) | 1S1E | Q4 / 2025 | Non-Consulting Services: No Advertising: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
+
+| Consulting Services |
+| --- |
+| Package Number | General Description | Estimated Value (in US$) | Selection Method | Review | Type of Proposal | Advertisement Date (quarter/year) | Comments |
+
+| consultants for project management and technical support | No Type: Firm Assignment: National Quality-Cost Ratio: 90:10 Covid-19 Response? No |
+| --- | --- |
+| HN-PPMO- CS01 | Project promo-tion and publici-ty of Henan | 150,589.00 | CQS | Prior | STP | Q2 / 2025 | Non-Consulting Services: No Type: Firm Assignment: National Covid-19 Response? No |
+| NPMO-CS1 | Project implementation consultants for project management & technical support | 629,898.00 | QCBS | Prior | STP | Q2 / 2024 | Non-Consulting Services: No Type: Firm Assignment: National Quality-Cost Ratio: 90:10 Covid-19 Response? No |
+| NPMO-CS2 | Knowledge sharing platform | 622,626.00 | QCBS | Prior | STP | Q2 / 2025 | Non-Consulting Services: No Type: Firm Assignment: National Quality-Cost Ratio: 90:10 Covid-19 Response? No |
+
+| Irrigation Projects in the Yellow River Basin | Covid-19 Response? No |
+| --- | --- |
+| NPMO-CS5 | Research studies - Topic 2 | 117,973.00 | CQS | Prior | STP | Q2 / 2025 | Non-Consulting Services: No Type: Firm Assignment: National Covid-19 Response? No |
+| NPMO-CS6 | Research Studies - Topic 3 | 117,973.00 | CQS | Prior | STP | Q1 / 2026 | Non-Consulting Services: No Type: Firm Assignment: National Covid-19 Response? No |
+| QH-PPMO- CS | Project implementation consultants for project management & technical support | 726,705.00 | QCBS | Prior | STP | Q2 / 2024 | Non-Consulting Services: No Type: Firm Assignment: National Quality-Cost Ratio: 90:10 Covid-19 Response? No |
+| SD-PPMO- CS03 | Demonstration and Research_ Shandong Subproject | 88,465.00 | CQS | Post (Sampling) | STP | Q2 / 2025 | Non-Consulting Services: No Type: Firm Assignment: National Covid-19 Response? No |
+
+| Goods and Works |
+| --- |
+| Package Number | General Description | Estimated Value (in US$) | Procurement Method | Review | Bidding Procedure | Comments |
+| NX-QTX-CW01 | Farmland infrastructure construction - land levelling | 844,488.00 | OCB | Prior | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No Comments: 1st OCB (AN) works contract for Ningxia |
+| NX-QTX-CW02 | High-efficiency water-saving irrigation, power distribution, fertigation pumping station and smart irrigation system | 923,443.00 | OCB | Post (Sampling) | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+
+| Covid-19 Response? No |
+| --- |
+| NX-QTX-CW04 | Water measuring facilities | 368,666.00 | OCB | Post (Sampling) | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No |
+| NX-QTX-CW05 | Ecological drainage | 761,646.00 | OCB | Post (Sampling) | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No Comments: Advertisement: Q3/2025 |
+
+| Bidding Document: Small Works Covid-19 Response? No Comments: Advertisement: Q3/2025 |
+| --- |
+| NX-QTX-CW07 | Biological channel (ecological interception & ditches) | 1,099,889.00 | OCB | Post (Sampling) | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Small Works Covid-19 Response? No Comments: Advertisement: Q3/2025 |
+| NX-QTX-G01 | Organic fertilizer promotion | 614,900.00 | OCB | Post (Sampling) | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
+
+| Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No |
+| --- |
+| NX-QTX-G03 | Pest control equipment, biological pesticide and agricultural film promotion | 845,914.00 | OCB | Prior | 1S1E | Non-Consulting Services: No Advertising Type: National No. Of Contracts: 1 Prequalification of Bidders: No Domestic Preference Applicable: No Bidding Document: Goods Covid-19 Response? No Comments: 1st OCB (AN) goods contract for Ningxia |
+| NX-QTX-NCS | Farmland quality monitoring | 33,917.00 | RFQ | Prior | Non-Consulting Services: Yes No. Of Contracts: 1 Covid-19 Response? No Comments: 1st nonconsulting service contract for Ningxia |
+
+| Consulting Servic | es |
+| --- | --- |
+| Package Number | General Description | Estimated Value (in US$) | Selection Method | Review | Type of Proposal | Comments |
+
+| project management & technical support | Type: Firm Advertising: National Quality-Cost Ratio: 90:10 Covid-19 Response? No |
+| --- | --- |
+| NX-PPMO-CS02 | Project knowledge management consultant | 71,005.00 | CQS | Post (Sampling) | STP | Non-Consulting Services: No Type: Firm Advertising: National Covid-19 Response? No |
+| NX-QTX-CS | Project implementation consultants for project management & technical support | 147,467.00 | QCBS | Post (Sampling) | STP | Non-Consulting Services: No Type: Firm Advertising: National Quality-Cost Ratio: 90:10 Covid-19 Response? No |
+
+| Goods and Wor | ks |
+| --- | --- |
+| Package Number | General Description | Contract Value | Date of ADB Approval of Contract Award | Date of Completion | Comments |
+| SAX-PPMO-G 01 | Agricultural monitoring and system | 1,937,500.00 | 09-JAN-25 | PCSS 0012 |
+| SD-PPMO-G0 1 | Office equipment | 39,790.00 | 02-DEC-24 | PCSS 0010 |
+
 |  |
-| SD-PPMO-CS | Project | 608,460.00 | 29-OCT-24 |
-| 01 | implementation |
-| consultants for |
-| project |
-| management & |
-| technical support |
-| NPMO-CS3 | Project | 240,960.10 | 16-JUL-24 |
-| management |
-| information |
-| system |
+|  |
+
+| Consulting Ser | vices |
+| --- | --- |
+| Package Number | General Description | Contract Value | Date of ADB Approval of Contract Award | Date of Completion | Comments |
+| NPMO-CS7 | Procurement agency | 21,399.94 | 31-MAY-23 | PCSS 0001 |
+| SD-PPMO-CS 02 | Procurement agency | 62,744.58 | 24-JUL-23 | PCSS 0002 |
+| SAX-PPMO-C S01 | Project implementation consultants for project management & technical support | 1,226,400.00 | 23-OCT-24 | PCSS 0008 |
+| SX-PPMO-CS | Project implementation consultants for project management & technical support | 718,910.74 | 15-OCT-24 | PCSS 0007 |
+| SAX-PPMO-C S02 | Survey, preliminary and detailed designs | 1,060,050.98 | 21-SEP-23 | PCSS 0004 |
+| SD-PPMO-CS 01 | Project implementation consultants for project management & technical support | 608,460.00 | 29-OCT-24 | PCSS 0009 |
+| NPMO-CS3 | Project management information system | 240,960.10 | 16-JUL-24 | PCSS 0006 |
 

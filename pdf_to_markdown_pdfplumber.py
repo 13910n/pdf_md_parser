@@ -14,7 +14,7 @@ def pdf_to_markdown(pdf_path) -> str:
 
             table_settings: T_table_settings = {
                 "vertical_strategy": "lines",
-                "horizontal_strategy": "text",
+                "horizontal_strategy": "lines",
                 "intersection_y_tolerance": 10,
                 "intersection_x_tolerance": 10,
                 "snap_tolerance": 5,
